@@ -3,6 +3,8 @@
 
 <div align="center">
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soojam)](https://solved.ac/soojam/)
+
 [![SukBum's github stats](https://github-readme-stats.vercel.app/api?username=seokbeom00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokbeom00&langs_count=10&layout=compact&hide=css,Html)](https://github.com/seokbeom00/seokbeom00)
