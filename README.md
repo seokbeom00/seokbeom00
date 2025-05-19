@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&text=SukBum's%20GitHub&fontSize=100&animation=twinkling&fontColor=666699)
-
 
 <div align="center">
 
